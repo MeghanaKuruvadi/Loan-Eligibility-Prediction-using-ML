@@ -20,3 +20,8 @@ I have created subplots for the dataset, allowing for a more detailed and compar
 ![5](https://github.com/user-attachments/assets/23d8854f-d150-4bf4-9429-e680c07c32a5)
 
 I trained a model using the Random Forest classifier to predict loan eligibility, determining whether an individual qualifies for a loan based on the input features. This approach enhances prediction accuracy by considering multiple decision trees, ensuring a more reliable outcome.
+
+![image](https://github.com/user-attachments/assets/72f0075d-d4ae-4cf5-9a79-3ed46244a0d0)
+
+This is the final output, where the model determines loan eligibility. If a person is eligible for a loan, the model assigns a value of 1 if not it assigns a value of 0. This binary classification effectively summarizes the prediction providing a clear indication of each individual's loan eligibility status.
+
